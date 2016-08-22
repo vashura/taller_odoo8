@@ -40,7 +40,7 @@ Curso-Taller Odoo v8.0
     - onchange
     - attributes: invisible, required, readonly
 
-- [Lección 07. Relaciones entre Modelos](lecciones/07/)
+- [Lección 07. Relaciones entre Modelos](lecciones/0/)
     - many2one
     - one2many
     - many2many
@@ -53,7 +53,7 @@ Curso-Taller Odoo v8.0
     - states
     - parent
 
-- [Lección 09. Extensión de módulos](lecciones/0/)
+- [Lección 09. Extensión de módulos](lecciones/07/)
     - Extender un Objeto
     - Extender una Vista
     - OpenChatter
