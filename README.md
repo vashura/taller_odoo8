@@ -87,7 +87,7 @@ Curso-Taller Odoo v8.0
     - Actividades
     - Transiciones
 
-- [Lección 15. Reportes y dashboards](lecciones/0/)
+- [Lección 15. Reportes y dashboards](lecciones/15/)
     - Reportes en PDF 
       - Ficha del libro
       - Ficha de prestamo
